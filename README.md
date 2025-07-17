@@ -4,8 +4,8 @@ A simple REST API built with FastAPI to manage a list of fruits. This project is
 
 ## 🚀 Live Demo
 
-👉 [View API on Render](https://your-app-name.onrender.com)  
-👉 [Swagger Docs](https://your-app-name.onrender.com/docs)
+👉 [View API on Render](https://fruits-api-2.onrender.com/)  
+👉 [Swagger Docs](https://fruits-api-2.onrender.com//docs)
 
 ---
 
